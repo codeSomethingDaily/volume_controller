@@ -1,6 +1,6 @@
 # Flutter Android voulme button handler
 
---A Flutter plugin for iOS and Android control system volume.--
+~~A Flutter plugin for iOS and Android control system volume.~~
 
 As far as I can tell it is hard for a plugin to override android default behavior, doing it directly in your app is easier.
 
